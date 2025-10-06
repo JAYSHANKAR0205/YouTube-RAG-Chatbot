@@ -1,3 +1,5 @@
+#Youtube RAG Chatbot
+
 Automatic Transcript Fetching – Retrieves the YouTube video transcript directly using the video ID.
 
 Smart Text Chunking – Splits the transcript into small overlapping chunks for better context understanding.
